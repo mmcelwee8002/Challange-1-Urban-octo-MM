@@ -190,6 +190,8 @@ p {
 }
 
 .footer {
+    margin: auto;
+    width: 100%;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
