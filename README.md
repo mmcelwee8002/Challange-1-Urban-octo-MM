@@ -15,7 +15,7 @@ https://mmcelwee8002.github.io/Challange-1-Urban-octo-MM/
 Matthew McElwee
 
 
-![Top of  page](../assets/images/Horiseon.png "Top of page")
+![Top of  page](/assets/images/Horiseon.png "Top of page")
 ![Side of  page](../assets/images/aside-section.png "side section of page")
 ![Navigation of portfolio page](../assets/images/navigation.png "navigation of page")
 ![Middle section of portfolio page](../assets/images/Middle-section.png "middle section of page")
